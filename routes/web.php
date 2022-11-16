@@ -40,3 +40,5 @@ Route::get('/all_stories', function () {
     return view('all_stories');
 });
 
+
+ 
